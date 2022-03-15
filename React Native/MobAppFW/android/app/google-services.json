@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231467106962",
+    "project_id": "mobapp-2249e",
+    "storage_bucket": "mobapp-2249e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231467106962:android:a694ad24646988936e1c4b",
+        "android_client_info": {
+          "package_name": "com.mobappfw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231467106962-lh59c7j0nhthfs77sqg8q7u1odk8om7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1wXgpAC4GG9Rt2BGDtn_j_Gd2UQHagWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231467106962-lh59c7j0nhthfs77sqg8q7u1odk8om7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
